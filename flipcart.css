@@ -1,0 +1,160 @@
+body{
+    margin: 0px;
+}
+header{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px ;
+    box-shadow: 4px 4px 275px -0px;
+}
+.headr2{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    width: 37%;
+    gap: 49px;
+    padding: 2px;
+}
+.headr1{
+    
+    display: flex;
+    padding: 10px 5px 13px 40px;
+}
+.fa-search{
+    padding-left: 10px;
+    border: none;
+    color: #2c2c2c;
+    font-size: 23px;
+}
+.inputsearch{
+    background-color: #e5f2f5;
+    border-radius: 7px;
+    border: none;
+    color: #cac6c6;
+    width: 450px;
+}
+.subheader1{
+    background-color: #e5f2f5;
+    margin-left: 70px;
+    width: 500px;
+    padding-top: 5px;
+    border-radius: 7px;
+}
+.button{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+}
+.icondown:hover{
+    cursor: pointer;
+    transition: 2s;
+    transform: rotate(180deg);
+}
+.icondown{
+    transition: 2s;
+}
+.loginbtn :hover{
+    color: white;
+    background-color: blue;
+}
+.container1{
+    width: 90%;
+    background-color: white;
+    margin-top: 11px;
+    height: 142px;
+    margin-left: 70px;
+}
+.maindiv1{
+    display: flex;
+    gap: 10px;
+}
+.subdivs{
+    
+    width: 125px;
+    height: 123px;
+    margin-top: 8px;
+   
+    font-size: 20px;
+    padding-left: 20px;
+}
+.c1img{
+    
+    width: 91px;
+}
+.c2img{
+    width: 70px;
+}
+.container2{
+    background-color:none;
+    height: 600px;
+    width: 97%;
+    margin: 16px;
+    display: flex;
+    gap : 10px;
+}
+.maindiv2{
+    display: flex;
+    flex-wrap:wrap ;
+    width: 50%;
+    background-color: white;
+   
+    gap: 10px;
+}
+.c2main{
+    height: 49%;
+    width: 47%;
+   border: 1px solid rgb(241, 240, 240);
+   padding-left: 46px;
+   box-shadow: 1px 1px 3px -1px;
+}
+.i1{
+    height: 228px;
+    width: 215px; 
+    padding: 18px;   
+}
+.i2{
+    height: 225px;
+    width: 226px;
+    padding: 18px;
+   
+}
+.i3{
+   width: 240px;
+    height: 220px;
+   padding: 10px;
+}
+.i4{
+    width: 212px;
+    height: 223px;
+    padding: 18px;
+    
+}
+.span2{
+    font-weight: bold;
+    
+}
+.bgitext{
+    background-image: url(../../images/flipcart/bgi.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
+    width :645px;
+   
+}
+.bgitexth1{
+    margin-left: 69px;
+    padding-top: 153px;
+    justify-content: center;
+    color: #f73606;
+}
+.bgitextp{
+    font-weight: bold;
+    margin-left: 69px;
+    padding-top: 15px;
+}
+.bgitextbutton{
+    margin: 69px;
+    border: none;
+    background-color: rgb(247, 180, 168);
+}
