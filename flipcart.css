@@ -135,7 +135,7 @@ header{
     
 }
 .bgitext{
-    background-image: url(../../images/flipcart/bgi.jpeg);
+    background-image: url(images/bgi.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size:cover;
